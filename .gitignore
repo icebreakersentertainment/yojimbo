@@ -9,8 +9,8 @@
 #*.sln
 
 # Makefiles
-Makefile
-*.make
+#Makefile
+#*.make
 
 # Misc
 *.txt
